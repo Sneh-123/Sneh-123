@@ -5,6 +5,7 @@
 - 📫 how to reach me- shenasaini90@gmail.com
 - 😄 hobbies-to interact with people 
 - ⚡ Fun fact: playing games like badminton
+- # LinkedIn: www.linkedin.com/in/sneh-saini-02724b2a9
 
 <!---
 Sneh-123/Sneh-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
